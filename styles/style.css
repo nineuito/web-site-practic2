@@ -27,10 +27,12 @@ h6 {
 }
 /* sention 1 */
 .page-first {
-  background: linear-gradient(to bottom, #1A18181A, #000000);
+  background: linear-gradient(to bottom, #1a18181a, #000000);
   border: 1px solid #000000;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 0px;
+  margin: 0 auto;
+  padding-bottom: 55px;
 }
 
 .header-conteiner {
@@ -83,4 +85,111 @@ h6 {
   margin: 26px auto 0px auto;
   text-transform: uppercase;
   text-align: center;
+}
+
+/* page second  */
+
+/* title  */
+.page-second {
+  margin-top: 51px;
+}
+
+.text-title-page-second {
+  width: 956px;
+  font-weight: 400;
+  font-size: 44px;
+  line-height: 50px;
+  margin-left: 5%;
+  margin-bottom: 63px;
+  text-transform: uppercase;
+}
+
+.content-page-second {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 121px;
+}
+
+.page-second-conteiner-first {
+  margin: 0 30px 0 0;
+  width: 555px;
+}
+
+.page-second-1 {
+  margin-bottom: 8px;
+}
+
+.page-second-text-first {
+  display: flex;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.page-second-text-first-1 {
+  margin-right: 400px;
+}
+
+.page-second-main-images {
+  display: flex;
+}
+
+.page-second-main-images-block {
+  margin-right: 30px;
+}
+
+.page-second-main-images-block-1,
+.page-second-main-images-block-2-1 {
+  margin-bottom: 20px;
+}
+
+.page-second-main-images img {
+  width: 263px;
+}
+
+.text-page-second-main-images {
+  width: 300px;
+}
+
+.text-page-second-main-images {
+  display: flex;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.text-page-second-main-images-1-1,
+.text-page-second-main-images-2-1,
+.text-page-second-main-images-3-1,
+.text-page-second-main-images-4-1 {
+  margin-right: 68px;
+}
+
+/* page third */
+
+.page-third-content {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 120px;
+}
+
+.page-third-conteiner {
+  margin-right: 217px;
+  /* margin-left: 113px; */
+  width: 385px;
+  margin-top: 250px;
+}
+
+.title-page-third {
+  font-weight: 400;
+  font-size: 54px;
+  line-height: 61px;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+}
+
+.text-page-third {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
 }
