@@ -65,7 +65,7 @@ h6 {
 }
 
 .header-bar:hover {
-  font-size: 15px;
+  font-size: 14px;
 }
 
 .page-first-content {
@@ -95,10 +95,12 @@ h6 {
   margin: 26px auto 0px auto;
   text-transform: uppercase;
   text-align: center;
+  transition: all 0.5s ease;
 }
 
 .button:hover {
-
+  background-color: #1a1818;
+  transform: scale(1.1);
 }
 
 /* page second  */
