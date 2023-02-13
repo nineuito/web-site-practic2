@@ -61,10 +61,11 @@ h6 {
 .header-bar {
   text-decoration-line: none;
   color: #000000;
+  transition: all 0.5s ease;
 }
 
 .header-bar:hover {
-  
+  font-size: 15px;
 }
 
 .page-first-content {
@@ -94,6 +95,10 @@ h6 {
   margin: 26px auto 0px auto;
   text-transform: uppercase;
   text-align: center;
+}
+
+.button:hover {
+
 }
 
 /* page second  */
