@@ -58,6 +58,15 @@ h6 {
   flex-direction: row;
 }
 
+.header-bar {
+  text-decoration-line: none;
+  color: #000000;
+}
+
+.header-bar:hover {
+  
+}
+
 .page-first-content {
   padding-bottom: 341px;
 }
