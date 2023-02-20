@@ -49,8 +49,8 @@ h6 {
 }
 
 .header-conteiner-block-first {
-  margin-left: 161px;
-  margin-right: 533px;
+  /* margin-left: 161px;
+  margin-right: 533px; */
 }
 
 .header-conteiner-block-first,
@@ -108,7 +108,7 @@ h6 {
 
 /* title  */
 .page-second {
-  margin-top: 51px;
+  margin-top: 121px;
 }
 
 .text-title-page-second {
